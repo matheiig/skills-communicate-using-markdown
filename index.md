@@ -12,3 +12,7 @@ WHERE verslag_ID = 12
 AND schooljaar_ID = 7001
 ORDER BY verslag_id;
 ```
+
+- [ ] eerste taak
+- [ ] tweede taak
+- [ ] derde taak
